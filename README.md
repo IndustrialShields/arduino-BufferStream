@@ -29,4 +29,4 @@ Now you can send or write data like it was an Arduino Serial.
 // Add the '\0' character at the end of the stream
   stream.write(uint8_t('\0'));
 ~~~
-You can see a read and write String examples in the [examples directory](https://github.com/IndustrialShields/arduino-BufferStream/tree/master/examples)
+You can see a read and write String examples in the [examples directory](https://github.com/IndustrialShields/arduino-BufferStream/tree/master/examples).
