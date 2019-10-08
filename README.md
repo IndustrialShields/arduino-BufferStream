@@ -1,4 +1,5 @@
-# arduino-BufferStream
+# Arduino BufferStream library
+### by [Industrial Shields](https://www.industrialshields.com)
 
 With this library you can convert any type of data to an Arduino Stream. First of all you have to include the library.
 ~~~
